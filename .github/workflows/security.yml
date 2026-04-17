@@ -44,7 +44,7 @@ jobs:
           PATTERNS=(
             "innerHTML\s*="
             "document\.write\s*("
-            "eval\s*("
+            "eval\s*\("
             "setTimeout\s*(\s*['\"]"
             "setInterval\s*(\s*['\"]"
           )
